@@ -5,5 +5,5 @@ This project utilizes the MiniSom library to implement Self-Organizing Maps (SOM
 
 **Dataset**
 
-The "__processed_friday_dataset.csv__" dataset was used in the baseline experiments: [Drive](https://drive.google.com/file/d/1PaRrET5dDzJPFwGa7bUMmIwjQmE9otTb/view?usp=sharing) curated by __@tamerthamoqa__ in this [repo](https://github.com/tamerthamoqa/cic-ids-2018-intrusion-detection-classification).
+The dataset that I have used in the experiment is [processed_friday_dataset.csv](https://drive.google.com/file/d/1PaRrET5dDzJPFwGa7bUMmIwjQmE9otTb/view?usp=sharing) curated by __@tamerthamoqa__ in this [repo](https://github.com/tamerthamoqa/cic-ids-2018-intrusion-detection-classification).
 
